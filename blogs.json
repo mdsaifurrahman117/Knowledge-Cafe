@@ -1,0 +1,302 @@
+[
+            {
+                        "id": 1,
+                        "cover_image": "https://i.postimg.cc/hPZPfh85/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+                        "title": "The Future of Web Development",
+                        "author_name": "John Doe",
+                        "author_image": "https://i.postimg.cc/NG1H98LP/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+                        "posted_date": "2025-03-15",
+                        "reading_time": 7,
+                        "hashtags": [
+                                    "#WebDevelopment",
+                                    "#Technology",
+                                    "#Future"
+                        ],
+                        "short_description": "Explore the latest trends shaping the future of web development."
+            },
+            {
+                        "id": 2,
+                        "cover_image": "https://i.postimg.cc/7hmP1ZFb/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+                        "title": "Mastering Tailwind CSS",
+                        "author_name": "Jane Smith",
+                        "author_image": "https://i.postimg.cc/4x8t4Jnf/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+                        "posted_date": "2025-03-14",
+                        "reading_time": 5,
+                        "hashtags": [
+                                    "#TailwindCSS",
+                                    "#CSS",
+                                    "#WebDesign"
+                        ],
+                        "short_description": "A deep dive into Tailwind CSS and how to use it effectively."
+            },
+            {
+                        "id": 3,
+                        "cover_image": "https://i.postimg.cc/J014Bkd9/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+                        "title": "AI in Everyday Life",
+                        "author_name": "Alice Brown",
+                        "author_image": "https://i.postimg.cc/DZGbcL60/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+                        "posted_date": "2025-03-13",
+                        "reading_time": 6,
+                        "hashtags": [
+                                    "#AI",
+                                    "#MachineLearning",
+                                    "#Tech"
+                        ],
+                        "short_description": "How artificial intelligence is transforming our daily activities."
+            },
+            {
+                        "id": 4,
+                        "cover_image": "https://i.postimg.cc/W1QNwKHm/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+                        "title": "Building a 10G Network at Home",
+                        "author_name": "Mark Wilson",
+                        "author_image": "https://i.postimg.cc/CKz8zWfj/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+                        "posted_date": "2025-03-12",
+                        "reading_time": 8,
+                        "hashtags": [
+                                    "#Networking",
+                                    "#10G",
+                                    "#Tech"
+                        ],
+                        "short_description": "A step-by-step guide to setting up a 10G network at home."
+            },
+            {
+                        "id": 5,
+                        "cover_image": "https://i.postimg.cc/QNbMZfFs/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg",
+                        "title": "Effective Server Management",
+                        "author_name": "Chris Evans",
+                        "author_image": "https://i.postimg.cc/BbGP7b7g/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+                        "posted_date": "2025-03-11",
+                        "reading_time": 7,
+                        "hashtags": [
+                                    "#Servers",
+                                    "#SysAdmin",
+                                    "#Technology"
+                        ],
+                        "short_description": "Learn how to efficiently manage and maintain servers."
+            },
+            {
+                        "id": 6,
+                        "cover_image": "https://i.postimg.cc/Kv88GtTT/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+                        "title": "The Rise of Locomotive Scroll in Web Animation",
+                        "author_name": "David Clark",
+                        "author_image": "https://i.postimg.cc/vmkV93WC/mohammad-khaksarmadani-4-FDs-Nc-CR8i-Q-unsplash.jpg",
+                        "posted_date": "2025-03-10",
+                        "reading_time": 5,
+                        "hashtags": [
+                                    "#WebAnimation",
+                                    "#LocomotiveScroll",
+                                    "#Frontend"
+                        ],
+                        "short_description": "Why developers are adopting Locomotive Scroll for smooth animations."
+            },
+            {
+                        "id": 7,
+                        "cover_image": "https://i.postimg.cc/hPZPfh85/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+                        "title": "How to Secure Your Web Server",
+                        "author_name": "Sophia Lee",
+                        "author_image": "https://i.postimg.cc/yxXgMKwz/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+                        "posted_date": "2025-03-09",
+                        "reading_time": 9,
+                        "hashtags": [
+                                    "#Cybersecurity",
+                                    "#WebSecurity",
+                                    "#Servers"
+                        ],
+                        "short_description": "Best practices for securing your web server from attacks."
+            },
+            {
+                        "id": 8,
+                        "cover_image": "https://i.postimg.cc/7hmP1ZFb/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+                        "title": "JavaScript Frameworks You Should Know in 2025",
+                        "author_name": "Ethan White",
+                        "author_image": "https://i.postimg.cc/4x8t4Jnf/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+                        "posted_date": "2025-03-08",
+                        "reading_time": 6,
+                        "hashtags": [
+                                    "#JavaScript",
+                                    "#Frontend",
+                                    "#Frameworks"
+                        ],
+                        "short_description": "An overview of the top JavaScript frameworks for developers in 2025."
+            },
+            {
+                        "id": 9,
+                        "cover_image": "https://i.postimg.cc/J014Bkd9/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+                        "title": "Why You Should Use Swiper JS for Sliders",
+                        "author_name": "Olivia Parker",
+                        "author_image": "https://i.postimg.cc/DZGbcL60/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+                        "posted_date": "2025-03-07",
+                        "reading_time": 4,
+                        "hashtags": [
+                                    "#SwiperJS",
+                                    "#WebDesign",
+                                    "#Frontend"
+                        ],
+                        "short_description": "A look at Swiper JS and how it simplifies slider implementation."
+            },
+            {
+                        "id": 10,
+                        "cover_image": "https://i.postimg.cc/W1QNwKHm/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+                        "title": "Understanding Firewalls and Network Security",
+                        "author_name": "Michael Johnson",
+                        "author_image": "https://i.postimg.cc/CKz8zWfj/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+                        "posted_date": "2025-03-06",
+                        "reading_time": 7,
+                        "hashtags": [
+                                    "#Cybersecurity",
+                                    "#Networking",
+                                    "#Firewall"
+                        ],
+                        "short_description": "An introduction to firewalls and their role in securing networks."
+            },
+            {
+                        "id": 11,
+                        "cover_image": "https://i.postimg.cc/QNbMZfFs/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg",
+                        "title": "The Role of AI in Cybersecurity",
+                        "author_name": "Daniel Martinez",
+                        "author_image": "https://i.postimg.cc/BbGP7b7g/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+                        "posted_date": "2025-03-05",
+                        "reading_time": 6,
+                        "hashtags": [
+                                    "#AI",
+                                    "#Cybersecurity",
+                                    "#Tech"
+                        ],
+                        "short_description": "How AI is helping to prevent cyber threats and enhance security."
+            },
+            {
+                        "id": 12,
+                        "cover_image": "https://i.postimg.cc/Kv88GtTT/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+                        "title": "Building a Scalable Web Application",
+                        "author_name": "Emma Watson",
+                        "author_image": "https://i.postimg.cc/vmkV93WC/mohammad-khaksarmadani-4-FDs-Nc-CR8i-Q-unsplash.jpg",
+                        "posted_date": "2025-03-04",
+                        "reading_time": 8,
+                        "hashtags": [
+                                    "#WebDevelopment",
+                                    "#Scalability",
+                                    "#Tech"
+                        ],
+                        "short_description": "Key principles to make your web app scalable and efficient."
+            },
+            {
+                        "id": 13,
+                        "cover_image": "https://i.postimg.cc/hPZPfh85/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+                        "title": "A Guide to Responsive Web Design",
+                        "author_name": "Ryan Garcia",
+                        "author_image": "https://i.postimg.cc/yxXgMKwz/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+                        "posted_date": "2025-03-03",
+                        "reading_time": 5,
+                        "hashtags": [
+                                    "#WebDesign",
+                                    "#CSS",
+                                    "#Responsive"
+                        ],
+                        "short_description": "How to make your website look great on any device."
+            },
+            {
+                        "id": 14,
+                        "cover_image": "https://i.postimg.cc/7hmP1ZFb/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+                        "title": "Why Dark Mode is Essential for Modern UI",
+                        "author_name": "Sophia Carter",
+                        "author_image": "https://i.postimg.cc/4x8t4Jnf/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+                        "posted_date": "2025-03-02",
+                        "reading_time": 4,
+                        "hashtags": [
+                                    "#UI",
+                                    "#DarkMode",
+                                    "#Design"
+                        ],
+                        "short_description": "The benefits of dark mode and how to implement it effectively."
+            },
+            {
+                        "id": 15,
+                        "cover_image": "https://i.postimg.cc/J014Bkd9/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+                        "title": "The Evolution of JavaScript ES6+",
+                        "author_name": "Liam Nelson",
+                        "author_image": "https://i.postimg.cc/DZGbcL60/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+                        "posted_date": "2025-03-01",
+                        "reading_time": 7,
+                        "hashtags": [
+                                    "#JavaScript",
+                                    "#ES6",
+                                    "#Frontend"
+                        ],
+                        "short_description": "A look at the improvements in JavaScript since ES6 and beyond."
+            },
+            {
+                        "id": 16,
+                        "cover_image": "https://i.postimg.cc/W1QNwKHm/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+                        "title": "The Power of Progressive Web Apps",
+                        "author_name": "Noah Adams",
+                        "author_image": "https://i.postimg.cc/CKz8zWfj/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+                        "posted_date": "2025-02-28",
+                        "reading_time": 6,
+                        "hashtags": [
+                                    "#PWA",
+                                    "#WebApps",
+                                    "#Tech"
+                        ],
+                        "short_description": "Why Progressive Web Apps are the future of mobile-friendly development."
+            },
+            {
+                        "id": 17,
+                        "cover_image": "https://i.postimg.cc/QNbMZfFs/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg",
+                        "title": "How to Optimize Website Performance",
+                        "author_name": "Lucas Bennett",
+                        "author_image": "https://i.postimg.cc/BbGP7b7g/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+                        "posted_date": "2025-02-27",
+                        "reading_time": 7,
+                        "hashtags": [
+                                    "#WebPerformance",
+                                    "#Optimization",
+                                    "#Speed"
+                        ],
+                        "short_description": "Tips and tricks to improve website speed and performance."
+            },
+            {
+                        "id": 18,
+                        "cover_image": "https://i.postimg.cc/Kv88GtTT/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+                        "title": "The Importance of UI/UX Design in Modern Apps",
+                        "author_name": "Emily Scott",
+                        "author_image": "https://i.postimg.cc/vmkV93WC/mohammad-khaksarmadani-4-FDs-Nc-CR8i-Q-unsplash.jpg",
+                        "posted_date": "2025-02-26",
+                        "reading_time": 5,
+                        "hashtags": [
+                                    "#UIUX",
+                                    "#Design",
+                                    "#Apps"
+                        ],
+                        "short_description": "How UI/UX impacts user engagement and app success."
+            },
+            {
+                        "id": 19,
+                        "cover_image": "https://i.postimg.cc/hPZPfh85/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+                        "title": "The Rise of No-Code Development Platforms",
+                        "author_name": "Olivia Green",
+                        "author_image": "https://i.postimg.cc/yxXgMKwz/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+                        "posted_date": "2025-02-25",
+                        "reading_time": 6,
+                        "hashtags": [
+                                    "#NoCode",
+                                    "#Development",
+                                    "#Tech"
+                        ],
+                        "short_description": "How no-code tools are changing the landscape of software development."
+            },
+            {
+                        "id": 20,
+                        "cover_image": "https://i.postimg.cc/7hmP1ZFb/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+                        "title": "Understanding API Design Best Practices",
+                        "author_name": "Benjamin Wright",
+                        "author_image": "https://i.postimg.cc/4x8t4Jnf/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+                        "posted_date": "2025-02-24",
+                        "reading_time": 8,
+                        "hashtags": [
+                                    "#API",
+                                    "#Development",
+                                    "#BestPractices"
+                        ],
+                        "short_description": "A guide to designing APIs that are scalable and easy to use."
+            }
+]
