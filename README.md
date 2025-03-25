@@ -1,5 +1,7 @@
 # Knowledge Cafe
 
+![cover image](./src/assets/images/Knowledge-Cafe.jpg)
+
 ## Overview
 
 Knowledge Cafe is a blog React application. It is built using modern React practices, including functional components, 
@@ -7,9 +9,10 @@ and state management.
 
 ## Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- Dynamic
+- Add to bookmark
+- Removing bookmarks after reading complete
+- Reading time calculation
 - Responsive design
 
 ## Tech Stack
