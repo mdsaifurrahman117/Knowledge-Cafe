@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Blogs from './components/Blogs/Blogs';
 import Header from './components/Header';
 import Bookmarks from './components/bookmarks/Bookmarks';
-import Reading_time from './components/Blogs/times/Reading_time';
+import Reading_time from './components/Reading_time';
 import Footer from './components/Footer';
 
 function App() {
@@ -13,8 +13,12 @@ function App() {
             }
 
             const [reading_time, set_reading_time] = useState(0);
-            const handle_reading_time = (time) => {
+            const handle_reading_time = ( id, time) => {
                         set_reading_time(reading_time + time);
+                        // removing from bookmarks after reading complete
+                        const remaining_bookmark = bookmarks.filter( bookmark => bookmark.id !== id );
+                        set_bookmarks(remaining_bookmark)
+                        
             }
 
             return (
