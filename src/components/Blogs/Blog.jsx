@@ -1,7 +1,7 @@
 import React from 'react'
 import 'remixicon/fonts/remixicon.css'
 
-function Blog({ blog, handle_add_bookmarks }) {
+function Blog({ blog, handle_add_bookmarks, handle_reading_time }) {
             const { cover_image, title, author_name, author_image, posted_date, reading_time, hashtags, short_description } = blog;
 
             return (
@@ -32,7 +32,11 @@ function Blog({ blog, handle_add_bookmarks }) {
                                                             )
                                                 }
                                     </ul>
-                                    <button>Mark as read</button>
+                                    <button className="text-[1rem] text-blue-800 border-b cursor-pointer"
+                                                onClick={ () => {handle_reading_time(reading_time)}}>
+                                                Complete
+                                                <i class="ri-check-double-line text-[1.2rem] ml-1"></i>
+                                    </button>
                         </article>
             )
 }
